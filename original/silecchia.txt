@@ -1,0 +1,15 @@
+1. This is a review of the manuscript "Motion out a cannon" by Silecchia, Zucaro, and Bumshteyn, submitted as a research article to J S&E. I recommend major revisions.
+
+2. The title needs to be more informative as to the actual findings. The abstract is nonspecific ("is affected by the launch angle" - HOW?) and has strange choices of word "proved how physics can be used"?
+
+3. Introduction:
+  a. Eq 1 makes no sense
+  b. The introduction does not set up testable hypotheses. The paper should have been bench rejected for this.
+
+4. Methods and materials focuses on roles people had when taking experimental data but is silent on analysis methods.
+
+5. Results - results mixes results which should just be the factual findings and refer to figs 1 and 2 and discussion which explores the significance of the findings and how they weigh on the different alternative hypotheses (no hypotheses were provided).
+
+6. "Discussion" says "we had a baseline idea that we could most likely use geometry..." why isn't this set up as a testable hypothesis, vis-a-vis Tartaglia's predicted trajectory shape. Etc. This discussion needs ot be completely redone.
+
+7. NO references are provided!
